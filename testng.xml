@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "All_Tests">
+    <test name = "Sanity">
+        <classes>
+            <class name = "get_list_users" />
+            <class name = "post_new_user" />
+            <class name = "put_update_user" />
+            <class name = "delete_user" />
+        </classes>
+    </test>
+</suite>
