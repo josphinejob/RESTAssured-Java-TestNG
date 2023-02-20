@@ -8,7 +8,7 @@ API : https://reqres.in/api/users - Free API to test GET, POST, PUT and DELETE
 
 ** Execute selected tests
 
-1. To execute single test with Maven: mvn clean test -Dtest=<test class name eg:get_list_users>
+1. To execute single test with Maven: mvn clean test -Dtest="<"test class name eg:get_list_users">"
 2. To execute tests from IntelliJ IDE: Use Run option in IDE
 
 ** Execute test suite
